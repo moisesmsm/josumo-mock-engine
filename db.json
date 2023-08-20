@@ -1,0 +1,488 @@
+{
+    "query": "iphone",
+    "customer_id": "",
+    "latitude": "",
+    "longitude": "",
+    "products": [{
+        "title": "iPhone 11 64 Gb Branco Apple",
+        "product_link": "https://www.google.com/shopping/product/14944582848681976406?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:17919369853501980894_0,pid:8118923567058424300,rsk:PC_8023149794696260886&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wIItg4",
+        "rating": "4,6",
+        "price": null,
+        "store": "Carrefour",
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT8m41C-tX7iWqbyDj4paN-wJKUJSviwjzXnQagTPdaKAuZoNw_oeEMZTK7N7H9R48mHnOMqcj27YSImBMSHbjwXH7iB8RCoO1rpWSpPMk&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.carrefour.com.br/vitrine-iphone-11-branco-64gb-mp930647371/p&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECL0O&usg=AOvVaw0nbiPyl8pYN6sgBJsET3uq"
+    }, {
+        "title": "iPhone 13 Apple Meia-noite, 128GB",
+        "product_link": "https://www.google.com/shopping/product/18387313197348633595?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:9851582672487998263_0,pid:13964963618840085936,rsk:PC_16698688427688974970&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wIIyQ4",
+        "rating": "4,5",
+        "price": null,
+        "store": "Casas Bahia",
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS8Og5Y5y0paYX18L8zGnI60MS0w9m4K21SlTXJSZK0RioiTRn6LzPx6KZf2kZmm_nR2aTNe5d5yrvs_rjUW_WLlmEEEmoNzoyVkMwlRhoG2FQVhTayRJFr&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.casasbahia.com.br/iphone-13-apple-128gb-meia-noite-tela-de-61-camera-dupla-de-12mp-55048758/p/55048758%3Futm_medium%3DCpc%26utm_source%3Dgoogle_freelisting%26IdSku%3D55048758%26idLojista%3D10037%26tipoLojista%3D1P&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECNAO&usg=AOvVaw2OmATudu4usPzo3vuiubtY"
+    }, {
+        "title": "iPhone 13 128GB Estelar Apple",
+        "product_link": "https://www.google.com/shopping/product/7841719060847327807?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:15739021503475087954_0,pid:6175014796267431054,rsk:PROD_VAR_713737389869695675&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wII3A4",
+        "rating": "4,8",
+        "price": null,
+        "store": "Fast Shop",
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTrPwTuQ8lswlF5HRZJBP2qJKWktoeBn0f5djie5TjSMaKFTHHWfZYjySt3xRE6Tc0hScdKshpeDAZBznFYEvw5MatIGjRDXAiNiKuaSd1c10Q1oQJGDMezfw&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.fastshop.com.br/web/p/d/AEMLPG3BRABCO_PRD/iphone-13-estelar-128gb-mlpg3bra-fast/&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECOMO&usg=AOvVaw3S-Izd7kJT23hwrR7i_bU8"
+    }, {
+        "title": "iPhone X Prata 256GB - Apple",
+        "product_link": "https://www.google.com/shopping/product/12790288921021509048?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:8100013099556841436_0,pid:7011061281299990100,rsk:PC_13295346759454735556&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wII7w4",
+        "rating": "4,5",
+        "price": null,
+        "store": "Trocafone",
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQekiAQujPHP6wqwDstVRf0JezVF0pDTOn6qqti5x1D6aARKCmNuW_kPb5QW-UJSnkNepGa-Gpsb3GSZqdmv4F_LuFrYSbLY9UYMxZggY4&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.trocafone.com.br/iphone-x-256gb-prateado-outlet-66716/p%3Fidsku%3D34212%26utm_source%3Dgoogle%26utm_campaign%3Dshopping%26utm_medium%3Dcpc&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECPYO&usg=AOvVaw3zdqTwTemWoXDiO2u1DerK"
+    }, {
+        "title": "Apple iPhone 12, 64 Gb - Preto",
+        "product_link": "https://www.google.com/shopping/product/81545515367893516?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:2039474706988138150_0,pid:9329561656219342814,rsk:PC_14074616196041694734&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wIIgw8",
+        "rating": "4,5",
+        "price": null,
+        "store": "iPlace",
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRipVvTsOfodUBpHeVsvu5ouAczIrbpMwo3dRGje1nHhlE09a8gQNtDN59BdLzKTqdLMdy-y-RZtEydgWCee4MU7QMmVQ_fgqWTDngxh48yS00g2nbA-fb0&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.iplace.com.br/iphone-12-apple-preto-64-gb-mgj53br-a/216221%3Fsrsltid%3DAfmBOoqFFGKWBXjLR4lNtKTAV8rwbGW0D82AnIL0FVqt_Att48RYUKGHPcQ&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECIoP&usg=AOvVaw2HhSxVShj0RwpNU5zZzFOu"
+    }, {
+        "title": "Apple iPhone 11 (128 GB) Preto",
+        "product_link": "https://www.google.com/shopping/product/14464181447208130355?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:15412700686669596511_0,pid:18030043997041424409,rsk:PC_8023149794696260886&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wIIlg8",
+        "rating": "4,6",
+        "price": null,
+        "store": "Magazine Luiza",
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRbUvkrbX87VTmvBs442Cf3k59w__Wpo90UFX7749d6CoD0aURM9CC3x9WkFeN2Jh8p3pxAZT-t1GkWR9pMfYZp_HaVSwvIvAnCdbQdAq1FGggWpTtSqQ0w&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.magazineluiza.com.br/iphone-11-apple-128gb-preto-61-12mp-ios/p/155611100/te/ip11%3F%26force%3D3%26seller_id%3Dmagazineluiza&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECJ0P&usg=AOvVaw1PemBWTdomuAMnmLtyuHLv"
+    }, {
+        "title": "iPhone 12 Mini 64GB - Roxo - Apple",
+        "product_link": "https://www.google.com/shopping/product/3476224302951438035?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:6650426434579704283_0,pid:4254332543354884871,rsk:PC_3506807150760730423&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wIIqQ8",
+        "rating": "4,5",
+        "price": null,
+        "store": "AliFone",
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR4zgPuO2cf_dDXHVCz7kUGhxlRt7cn70fYYR7-vIdZ2AS2d9I5JT-l1Ve_YK_Mkn39Go28qcJX-gvHuV8GDWLKiGHeSk6T3r9nSQM1QuViB-nOOMCfsdG5&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://alifone.com.br/produto/iphone-12-mini-seminovo/%3Fattribute_modelo%3D64GB%26attribute_cor%3DRoxo%26srsltid%3DAfmBOorlN3VeG9N5yAi8K7c0detDHXp5_3nLhl5OvLHUGyiGTMyOU5lh9CE&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECLAP&usg=AOvVaw3_2nja4pY920b0JzV_4rHF"
+    }, {
+        "title": "iPhone XS 64 Gb Dourado Apple",
+        "product_link": "https://www.google.com/shopping/product/18102611587410681065?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:17105990061193521494_0,pid:2402493030188347556,rsk:PC_6811745323585508222&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wIIvA8",
+        "rating": "4,6",
+        "price": null,
+        "store": "Smartsshop",
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSfWeHINnA8GWG_JneBmvAqb8jsd8d1vzJOMThiPHlAmKa6ebM3LF6246l5UqAbd05TTImd5VOoHjtCw_zONTjS413TdQ__a0k0xFUvvfig&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.smartsshop.com.br/iphone-xs-64gb-gold-apple-camera-dupla-vitrine-exposicao-estado-impecavel%3Fsrsltid%3DAfmBOoqgNogJvFQDSASN_EyHlckEz-eKOLpZqh6-hm8SPPTDWJ8dClGUWEc&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECMMP&usg=AOvVaw2_07ITn_a_26hzZbIC8pHS"
+    }, {
+        "title": "Apple iPhone 14 Pro Max 128GB Preto-espacial",
+        "product_link": "https://www.google.com/shopping/product/13767859037455403958?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:7997774109750805320_0,pid:6565423514298364465,rsk:CID_13767859037455403958&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wIIzw8",
+        "rating": "4,9",
+        "price": null,
+        "store": "Apple",
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTvYGFvdJ695JE2rSD2-TVA7RjYfzeWHRN6I1rAWhxb8cVl_BUgZUGOXgiQwFPcBnmQitXUJq7Fjs9z5m2po5xvpURLw1wAVc3o-5yuMSAcxW6pC4wNhgqK&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.apple.com/br/shop/go/product/MQ9P3%3Fcid%3Daos-br-seo-pla&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECNUP&usg=AOvVaw2if-mRSZxAyMFlnHq3diRO"
+    }, {
+        "title": "iPhone 13 Apple (128GB) Meia-noite, Tela De 6,1, 5G E Câmera Dupla De 12 MP",
+        "product_link": "https://www.google.com/shopping/product/7854773796726346568?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:6501714265432431917_0,pid:6822711636719556090,rsk:PC_14799979452655504900&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wII4Q8",
+        "rating": "4,5",
+        "price": null,
+        "store": "C&A",
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTf7ZkXCzeOugDGTATODVfqegqvNW8bRMTb3Mf84Wtd8LXXfs2bEq81Vaq-IbxPjxtVutE7AmxftZckhyr6m_caPxGvMYUr7x1lpTAlcsOA&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.cea.com.br/iphone-13-apple--128gb--meia-noite-tela-de-61--5g-e-camera-dupla-de-12-mp-4200172/p%3FskuId%3D5478559%26srsltid%3DAfmBOopBzuVKBHlRhzjoUpzG74NwgDqIvkbmuWt7D5XGk6dSkjMlDLEaPXM&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECOgP&usg=AOvVaw1CEbf-u-jVZCToGE20ORVH"
+    }, {
+        "title": "Apple iPhone 8 Plus 64 Gb Prata 3 Gb Ram",
+        "product_link": "https://www.google.com/shopping/product/5503272062375978410?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:10564532525524081125_0,pid:7405727379853760532,rsk:PC_3111344028560015234&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wII8w8",
+        "rating": "4,5",
+        "price": null,
+        "store": "Switch Phone",
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzywOGiP0AFaYK-RLVmGXYjGwZhFEitwuBR-fA-VQ-wzPo1aNGvsYQlStO-IMRj055pnvCMs7x7yvRWTdxkjxFFg1ZmpCKDq2i8rQgm81kCLWBcNjYNswDXg&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://loja.switchphone.com.br/iphone-8-plus-64gb-prateado-novo%3Fsrsltid%3DAfmBOoo3p-xt_EL9FcYLXcKJnZmfxgR6K1_739BuqRsC-_j8ZTxxqbWZKMo&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECPoP&usg=AOvVaw3s9ApWvLB4jdNvdLvpcMdF"
+    }, {
+        "title": "iPhone 8 64 Gb Dourado Apple",
+        "product_link": "https://www.google.com/shopping/product/7538657221046822293?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:3032950595604871841_0,pid:1866388613837696697,rsk:PC_2279649599901893363&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wIIhRA",
+        "rating": "4,4",
+        "price": null,
+        "store": "Mercado Livre",
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSojCxeh70d369np9JfeOMkneq6tdcbug2N-sscaGCLNgSBp2hUenUloZWRYnF-TRSi9R092pkP8aQ1ijuBEiMAGL8sr1yKWry5EDvGusOF&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.mercadolivre.com.br/iphone-8-64-gb-dourado/p/MLB8752430%3Fmatt_tool%3D18956390%26utm_source%3Dgoogle_shopping%26utm_medium%3Dorganic%26from%3Dgshop&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECIwQ&usg=AOvVaw1Y_DGXvsbJT-UlgYX8PUea"
+    }, {
+        "title": "iPhone XR 64 Gb Branco",
+        "product_link": "https://www.google.com/shopping/product/10462912111217469778?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:18059775404598121589_0,pid:5264573451221332457,rsk:PC_11707484607012466171&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wIIlhA",
+        "rating": "4,4",
+        "price": null,
+        "store": "Shoptime",
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTbW84dwxtUniBn1WC-aBlu3fxVrgCkOfWud0jXYBlul8XeUnC9TL9we2MayuGNM8n81e3KbyEwBV9PhI2NrGXuavMMM6lXkeafpeGshMP0KaRUZE4KmIUS&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.shoptime.com.br/produto/6609535208/iphone-xr-64-gb-branco%3Fopn%3DGOOGLEXML%26offerId%3D64a7f06f579fbc8d9184373b%26srsltid%3DAfmBOorsPpla6BBGQWzx3GtGXrZv-Jk0qSlDGXb5A5coMu_OmTuaNFariK8&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECJ0Q&usg=AOvVaw2ME6omnQTKx0UsY7iWimTl"
+    }, {
+        "title": "Apple iPhone 14 Pro 128GB - Preto Espacial",
+        "product_link": "https://www.google.com/shopping/product/5112177205440457254?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:9170383896401206506_0,pid:13032159334655514910,rsk:PC_249950349010311029&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wIIqRA",
+        "rating": "4,6",
+        "price": null,
+        "store": "Gazin.com.br",
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTRg4ssnKT9xRCTSZDShY_i7pnK97Da1ckWpOgJoLM3cqD0bRlpptFFEsyJZxLm-07C0ae8m3qa7r-T8ThC4O7JGdAaoMWdpB_bfqbFK2AEbxBVunD1IxaBZw&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.gazin.com.br/produto/6878/iphone-14-pro-apple-61-5g-ios-16-128gb-dual-sim-camera-tripla%3Fcor%3Dpreto%26voltagem%3Dquadriband%26seller_id%3D23%26utm_source%3Dgoogle%26utm_medium%3Dgoogle-dsa%26srsltid%3DAfmBOorE1igSSvqkJeqSrlMpEUMJeITZUqdz9bNYMiguf9zNmHrhyniO6do&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECLAQ&usg=AOvVaw242ZgfFFCFrqfvSXej_s4Q"
+    }, {
+        "title": "Apple iPhone 14 128GB Meia-noite",
+        "product_link": "https://www.google.com/shopping/product/1402706324896177422?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:4428236830670128074_0,pid:1756632202087111298,rsk:PC_8862943819110715885&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wIIvBA",
+        "rating": "4,4",
+        "price": null,
+        "store": "ibyte",
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSLgfx0wYspAowYmJz5dmXBT8vtYMnKbgCAeWYSsSMnCwZqpbq8PHPvMo-a0EkTKC7kxk601lTqfS00FCwx7FCY0GATPjIre7bSbHVIcwQ&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.ibyte.com.br/iphone-14-apple-128gb-meia-noite-tela-6-1-5g-ios-16-camera-dupla-12mp/p%3Fsrsltid%3DAfmBOooQgccRFmN30mOBXaYchY6AF6ZgLLFGFbswlyuxncYs302ctVZ4zD0&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECMMQ&usg=AOvVaw0GsEEY8cve3PJLoJS-IijK"
+    }, {
+        "title": "Apple iPhone XR 64 Gb - Branco",
+        "product_link": "https://www.google.com/shopping/product/7139601338344377485?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:15832729419580827394_0,pid:8518871648147694175,rsk:PC_15653290272112071452&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wIIzxA",
+        "rating": "4,6",
+        "price": null,
+        "store": "Mercado Livre",
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSXsOEH5GMOxVm4p_1mP6p8rdHMQuqPEt4rBmKojcZDhxslhiZnfz-0996y8M6vML4bqGlCNX69FrOrSkpkIREam3C11PTNCRey-9Hg07ciPcYDof4NbgzJbg&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.mercadolivre.com.br/apple-iphone-xr-64-gb-branco/p/MLB12866679%3Fmatt_tool%3D18956390%26utm_source%3Dgoogle_shopping%26utm_medium%3Dorganic%26from%3Dgshop&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECNYQ&usg=AOvVaw2ZheDzVYahA3vn_kklAKkh"
+    }, {
+        "title": "Usado: iPhone 11 Pro Max 512GB Cinza Espacial Bom - Trocafone",
+        "product_link": "https://www.google.com/shopping/product/13368536579792815970?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:7294971973984895766_0,pid:14265803944249689355,rsk:PC_251453032899230491&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wII4xA",
+        "rating": "4,6",
+        "price": null,
+        "store": "Trocafone",
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRf90e6dkfbZ6PzT_qDADV0UfgyxrdaKWS2MxqTOgUVMmmGFehxcHLx_k9shoFFONek86RbN1305LzYAHn07jeq-Ab6tx36J1YtFa3RoGds7rp4QlUaaaNtfA&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.trocafone.com.br/pelicula-para-motorola-moto-g23---traseira-de-fibra-de-carbono-preta---gshield-67903/p%3Fidsku%3D36831%26utm_source%3Dgoogle%26utm_campaign%3Dshopping%26utm_medium%3Dcpc&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECOoQ&usg=AOvVaw3JHnr0WIFqVbZfCP94a2Ei"
+    }, {
+        "title": "Apple iPhone 14 128GB Estelar",
+        "product_link": "https://www.google.com/shopping/product/13572850348160503684?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:17126587891014042281_0,pid:15600282091252619513,rsk:PC_8053804293482199477&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wII9RA",
+        "rating": "4,5",
+        "price": null,
+        "store": "EpartShop",
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRXuAQlq3iaknXJKT1Jeuo-lK8Y3zkJ1wWDGo_NjG7DEcdUzSxdoXxe91ayra7-2_yat53afTVKpJD7ON4ssmHmL0-qVpA_R0mW-qmRo_a0BbE2sqOklGvR2gA&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.epartshop.com.br/smartphones-e-tablets/smartphones-celulares/celular-smartphone-apple-iphone-14-128gb-tela-6-1-starlight-branco%3Fparceiro%3D1038%26srsltid%3DAfmBOooNIhKlcvWbMfBjWi9FZ2hMJRKtY-zQrpJlPOd7JeESjX2rby2pkRw&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECPwQ&usg=AOvVaw1upYNC-YalYVNz1nvQreXG"
+    }, {
+        "title": "iPhone 11 Pro - 256GB / Prata",
+        "product_link": "https://www.google.com/shopping/product/4306432020533643415?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:1927985724508290397_0,pid:9454336291920528617,rsk:PC_4343141063645219104&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wIIiBE",
+        "rating": "4,6",
+        "price": null,
+        "store": "Magazine Luiza",
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQsfYACfNvHVRAEKoyXwx-ooWLQ9bF3YpO8HV46nY6ZlgZ33B9De4BmhfuxJXUeKWRRvFsWa-aWVTbUzr71Qg-SfwofV7qsidZ-pyjzOpw&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.magazineluiza.com.br/iphone-11-pro-apple-256gb-prateado-58-12mp-ios/p/155562900/te/ip11%3F%26force%3D3%26seller_id%3Dmagazineluiza&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECI8R&usg=AOvVaw1abTpuG-ey0g_YZ0UUpQUg"
+    }, {
+        "title": "iPhone 13 Apple (128GB) Estelar, Tela De 6,1, 5G E Câmera Dupla De 12MP",
+        "product_link": "https://www.google.com/shopping/product/5676274531085309045?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:4943561134392093725_0,pid:16303050696325611732,rsk:PROD_VAR_3200969524821070318&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wIImxE",
+        "rating": "4,5",
+        "price": null,
+        "store": "Pão de Açúcar",
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRx-QJyM2bJlDLBpt8xp7_q0KOzennNkifWzGD29aI4eAM4_cSENSQHuA1RjHd-YzU138Uk9-sUjvwIRUyUCS6lbIiAuJ3nLoLElbaHo37D&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.paodeacucar.com/produto/1511322%3FstoreId%3D461%26isGoogleShopping%3Dtrue&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECKIR&usg=AOvVaw3Yu_kyFtbCBCWlPBgMg5LT"
+    }, {
+        "title": "Apple iPhone 14 Pro Max 128GB Prateado",
+        "product_link": "https://www.google.com/shopping/product/8722164499949128667?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:7089990938907559214_0,pid:1091973535812146339,rsk:PROD_VAR_287976128628628562&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wIIrRE",
+        "rating": "4,9",
+        "price": null,
+        "store": "Eletronics Stark Tecnologias",
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR5JepxRDqbOLnHFvqMZ72KG9Ez761lpkKY5-Kq3XqXwRIt2hR_KyKvVZ3ZLUSV3pHTKd7JGT_iO1cQ8-rTUGBTwVVhcOOvsj9PWZ9DjCJIjxURUtwKbwiB&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://eletronicstarktecnologias.com/index.php/produto/iphone-14-pro-max-apple-128gb-prateado-tela-de-67-5g-e-camera-de-48mp/&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECLQR&usg=AOvVaw0ODN-c42z3pU68MGJK_rSp"
+    }, {
+        "title": "Apple iPhone XR (128 GB) - Branco",
+        "product_link": "https://www.google.com/shopping/product/9477653636030115514?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:5756579870796210380_0,pid:5004208724610866501,rsk:PC_15653290272112071452&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wIIvxE",
+        "rating": "4,6",
+        "price": null,
+        "store": "Worldwide Brasil",
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTihLtBXqLnfYrkO-sWx5FQyeTqtBStMeHPb_0nvlVjxFGHEkZKLI1Mbi92dzjIJIHct6s9iKuaHheC6_3C3Qg3mImFoEpXm5eHDpE3b7vZvYumP0uibc9V6Q&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.worldwidebrasil.com.br/iphone-xr-128gb-apple-de-vitrine%3Futm_source%3DSite%26utm_medium%3DGoogleMerchant%26utm_campaign%3DGoogleMerchant%26sku%3DT2BKCZ4QW-branco%26srsltid%3DAfmBOopPHhUpE1bNTDGOmGBee4DFTqS6eVJ8aWtOF0YhYXpsUm0EBOFxEcg&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECMYR&usg=AOvVaw3ZxshnusSA1afbHbHs4yPs"
+    }, {
+        "title": "iPhone 14 Pro Max, 128 GB, Apple - Roxo Profundo",
+        "product_link": "https://www.google.com/shopping/product/14747042981260107367?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:10560578583770342296_0,pid:13882271330551965524,rsk:PC_8672923537105206374&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wII0hE",
+        "rating": "4,6",
+        "price": null,
+        "store": "Infotecdez",
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSDkuwtHa7EmbqFz0t-uboyof4C-k2iiwDWEWxJMgcf4xG0cTREEIqw06yM1VmLa0mnaO3f7FJyARRSRBQhOZr4IoDbVDv5V-VHYpO7RZfr1z1At0yjFKlr1A&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.infotecdez.com.br/hardware/placa-de-video/iphone-14-pro-max-128gb-roxo-profundo%3Fparceiro%3D1787%26srsltid%3DAfmBOopFIfrApBuIk4o_jVlPZ84WymTdSZSJAjkuxqA1NM5o78GYV2FKmuA&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECNkR&usg=AOvVaw3bPSqe0naySisDXsITFiHz"
+    }, {
+        "title": "iPhone 7 Plus 128GB Preto - Apple",
+        "product_link": "https://www.google.com/shopping/product/3453928994937030914?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:12707361849141767836_0,pid:5213524338446676969,rsk:PC_1210707577902993205&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wII5RE",
+        "rating": "4,6",
+        "price": null,
+        "store": "Magazine Luiza",
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTaPdZ7aUcJZL_mnwd9qnQ7UmvrGRiULqlfkdEs3WaChbJvn1L8UsBq3LzCb_DXOjGQiONpDXCc37ZuUp8uLxT29YesFqQNK3GjUy6XjFaF&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.magazineluiza.com.br/iphone-7-plus-apple-preto-matte-128gb-desbloqueado-mn4m2bz-a/p/ja58eeba1j/te/ipn7%3F%26seller_id%3Dlojaiplace&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECOwR&usg=AOvVaw2JLqwv7UmecKDyh--1Sb9C"
+    }, {
+        "title": "Apple iPhone 14 128GB - Estelar",
+        "product_link": "https://www.google.com/shopping/product/5069521352110306648?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:6202892339102626107_0,pid:1112247681230218910,rsk:PROD_VAR_859718133204150811&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wII9xE",
+        "rating": "4,8",
+        "price": null,
+        "store": "EletroSam",
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQipGur00rE4_7IKXtdsirvhPbhzdqCfOfNEIRZSeRJPH-7DXd7e2_rfFe1niYI0RrmDN60gUzHd-7UzBUnWxn8dKbfWIhUBxwoFjEiUHSkjtphRbtDWB1T&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.eletrosam.com.br/produto/apple-iphone-14-128-gb-estelar.html%3Futm_source%3DSite%26utm_medium%3DGoogleMerchant%26utm_campaign%3DGoogleMerchant%26srsltid%3DAfmBOoqb3CNcSz_z99IaTQMzBU3SLf65aSNqIMzcmnnZe_0AvgQIqiuJ0xE&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECP4R&usg=AOvVaw0Y4YQb6dAH-ZRlHbePaBXI"
+    }, {
+        "title": "iPhone 13 256GB 6,1 Polegadas Câmera Dupla 12MP Apple",
+        "product_link": "https://www.google.com/shopping/product/390931626205099309?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:4949379097819994381_0,pid:8789995694398981018,rsk:PROD_VAR_3200969524821070318&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wIIihI",
+        "rating": "4,5",
+        "price": null,
+        "store": "Amazon.com.br - Retail",
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSGsIIEUSe1MbC1_Da51AX1zUDnyfEyzSw3lJq78myihXBnEr7-ITL1vTxUjRljjTukLn5R-GNbN1uYjOZw7NL-F-kB8jPgMQ_KWDJn5ds1rYoIObaFDxxb3w&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.amazon.com.br/Apple-iPhone-13-256-GB/dp/B0B26MTNWP%3Fsource%3Dps-sl-shoppingads-lpcontext%26ref_%3Dfplfs%26psc%3D1%26smid%3DA1ZZFT5FULY4LN&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECJES&usg=AOvVaw35QOCdf8XJRLXDsaPxWbRK"
+    }, {
+        "title": "iPhone Se 128GB Preto Apple",
+        "product_link": "https://www.google.com/shopping/product/446496653236035825?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:7093856485481404330_0,pid:9266536751881974165,rsk:PC_7393844617082798112&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wIInBI",
+        "rating": "4,5",
+        "price": null,
+        "store": "KaBuM!",
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQUtXDiMZzxFLSXzM74sjzoSsF9AhByMFuIu5dTimkMwOTjRjn-DIZwN-syiH8TAOLCvlVjB9E_CAM4qDT3oZfHMhzKlKOgMcnwGAfj6QfTbuBONAu8tFAc&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.kabum.com.br/produto/398980/iphone-se-apple-128gb-preto-4-7-12mp-ios%3Fsrsltid%3DAfmBOor2MzArwhOluttO9yXsyM-NUlGU3-VdJcnwbRsfPxd15cSXH1cLdnY&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECKMS&usg=AOvVaw2T9EriH2yD5o_wFZhXaCZv"
+    }, {
+        "title": "Apple iPhone 12 Pro (256 GB) - Azul-Pacífico",
+        "product_link": "https://www.google.com/shopping/product/13097933073135217017?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:14124009996239925793_0,pid:16673831235710230207,rsk:PC_15321614589434804038&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wIIrxI",
+        "rating": "4,5",
+        "price": null,
+        "store": "Casas Bahia",
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRyPJXdEXyxOK-tvnpGtMFrWgsjtp6wgzBquWa8OgUohsmExmpdDROXcMUGdX8ZRFVVj7GKgqO1q4HNx5ecI04sbtKj8A-V4ATJxpUywj0&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.casasbahia.com.br/iphone-12-pro-apple-256gb-azul-pacifico-tela-de-61-camera-tripla-de-12mp-ios-55014550/p/55014550%3Futm_medium%3DCpc%26utm_source%3Dgoogle_freelisting%26IdSku%3D55014550%26idLojista%3D10037%26tipoLojista%3D1P&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECLYS&usg=AOvVaw2QJOEGI13v7gwo4Di6p7A_"
+    }, {
+        "title": "Apple iPhone 13 (128 GB) - Verde",
+        "product_link": "https://www.google.com/shopping/product/11180453628537451408?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:10199534695710849437_0,pid:1171912038223135222,rsk:PC_8971650804785857268&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wIIwhI",
+        "rating": "4,6",
+        "price": null,
+        "store": "Americanas.com",
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRqq19WJ8HtZ3j9jCCysA5Uxcyv6Dv3-g5HlUdoAoIdICARWTocP6iPYg8e20cJjhFo1mYHb8QREcpB30mfkH-bPXta1ESZxm17IkftruFsnXQN6YOVGppEhQ&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.americanas.com.br/produto/7435844106/apple-iphone-13-128gb-verde%3Fopn%3DYSMESP%26offerId%3D64c796ce579fbc8d916c53da%26srsltid%3DAfmBOor3FZfDQi-mgbSUJbTH-nd5FfRhWtmieDhPGvY5h0XpVnkcYHxDvM4&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECMkS&usg=AOvVaw2PBnbN7rQL_FvXjXKuV0ef"
+    }, {
+        "title": "Smartphone I14 Pro Max Phone 2+16 Memória Smartphone 7.3 Polegadas Telefone de ...",
+        "product_link": "https://www.google.com/url?url=https://shopee.com.br/product/768390160/22195861900&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ2SkI1BI&usg=AOvVaw1LjPLaSN5BT-bGBZD2e8As",
+        "rating": null,
+        "price": null,
+        "store": "Shopee",
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTuxh4pjHTa43jTbZ_dnjWKvAJ-aBLVrOKiTkJfV_drxqv-VLtu_YwzYbfCicintWzHybVZw6p4WTP0EhQZf-_OUe7UfIJS8na7Lpwz5Zmu&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://shopee.com.br/product/768390160/22195861900&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQgOUECNkS&usg=AOvVaw3KM4AVT2ryb7pjOtB43Co3"
+    }, {
+        "title": "Usado: iPhone 11 128GB Preto Excelente - Trocafone - Apple",
+        "product_link": "https://www.google.com/url?url=https://www.magazineluiza.com.br/usado-iphone-11-128gb-preto-excelente-trocafone-apple/p/agdagd87g5/te/ip11%3F%26%3D%26seller_id%3Dtrocafone&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ2SkI4xI&usg=AOvVaw0CHUmRT4AcLTwAFTifMUCe",
+        "rating": null,
+        "price": null,
+        "store": "Magazine Luiza",
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRVnPxW4mr9Gof3GGVPwmSWEff1cNPDupNARYw6pQZ7106AgtAZa0v49sNmTsZIWx_KA_B9jRXtYVxZwUFRcZpF0YRaw2nY847mmuFnyR9U&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.magazineluiza.com.br/usado-iphone-11-128gb-preto-excelente-trocafone-apple/p/agdagd87g5/te/ip11%3F%26%3D%26seller_id%3Dtrocafone&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQgOUECOgS&usg=AOvVaw2guwqyNuLN20lDrwUFU18n"
+    }, {
+        "title": "Apple iPhone 13 Mini 128GB 5.4 Branco",
+        "product_link": "https://www.google.com/shopping/product/15680772204582704220?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:4473648857004139459_0,pid:4561198882366316650,rsk:PC_16825921221298407573&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wII9BI",
+        "rating": "4,7",
+        "price": null,
+        "store": "Techinn.com",
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSG0lQuhTqhgd6cD3EEn3LmLZG00EVEcUoEhk3Mp7ap8zQ7J6-Lyx2K6yzMZIkJTP0Xyn-ke3BYevZ_HhYttPHWpi5eRfAwkfmqccy6NjI&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.tradeinn.com/techinn/pt/apple-iphone-13-mini-128gb-5.4/138359400/p%3Futm_source%3Dgoogle_products%26utm_medium%3Dmerchant%26id_producte%3D14150704%26country%3Dbr%26srsltid%3DAfmBOoo6SgFf-exjTxybeze4wC3YbMKM63zoLrwlDkJMjwtkvHGeeJJ2ubo&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECPsS&usg=AOvVaw2uF_i9R1eQEu482494mjQY"
+    }, {
+        "title": "iPhone 8 Plus (Prata, 64GB)",
+        "product_link": "https://www.google.com/shopping/product/12787792303957316430?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:57420426378529649_0,pid:10822654466029157377,rsk:PROD_VAR_205653978321263154&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wIIhhM",
+        "rating": "4,6",
+        "price": null,
+        "store": "Moratech Imports",
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSBZDS12mjx_GcW7aOZ_jkOqKVVYlWnmwS-IJdNQw6e7Deu8FwNnxTcbFSkjjeOOe3pF93IqhH032m6OHQkynEZGeLbw_sFG53XEG2RNljBYFudJG-A2uzm&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.moratechimports.com.br/apple-iphone-8-plus-prata-64gb-tela-55-e-camera-de-12mp&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECI0T&usg=AOvVaw3LLlqbcB6yjUmvzzIP7Uc9"
+    }, {
+        "title": "Apple iPhone 14 128GB iOS 5G Wi-Fi Tela 6.1\" Câmera Dupla 12MP",
+        "product_link": "https://www.google.com/url?url=https://lojaonline.tim.com.br/produto/apple-iphone-14-128gb-36532%3Fplano%3Dtim-pos-10gb-plus-fid&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ2SkImhM&usg=AOvVaw0swXthGvpSqhGwhd6DTsWy",
+        "rating": null,
+        "price": null,
+        "store": "Loja TIM",
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT2iIPnsRvuq683eH_OVdhHnQrF1pCKRIZ0Uy9Eo-AdiWZ55Uv3ZvFQ8KFv74Y08QXMdo1NHxiyJwLNDK-DuP3FU1BUzW99PViK7FI7_oy4GQxNdO7SPfiZ&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://lojaonline.tim.com.br/produto/apple-iphone-14-128gb-36532%3Fplano%3Dtim-pos-10gb-plus-fid&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQgOUECKAT&usg=AOvVaw2rtB_DVkqfENu9ncw5fL0B"
+    }, {
+        "title": "iPhone 12 Mini Apple tela 5,4\" Câmera dupla 12MP iOS",
+        "product_link": "https://www.google.com/url?url=https://www.outletfone.com.br/iphone-12-mini-apple-tela-5-4-camera-dupla-12mp-ios.html&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ2SkIqxM&usg=AOvVaw3flpKp4M-3XOn96AN4zdJU",
+        "rating": null,
+        "price": null,
+        "store": "Outlet Fone",
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSIkbSOc-L9dlymAdGmGMv-ZrkxjYdejZLtF7eQBSnYJYTLKBJT5aPW11RBjxK7a2HUZdpRIARINpMMf4pA_hhR79oe_LXq31q55kOcoF5glLDp77v2YgK2&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.outletfone.com.br/iphone-12-mini-apple-tela-5-4-camera-dupla-12mp-ios.html&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQgOUECLET&usg=AOvVaw2uXTNVxI8yyVpDhmWPWXRE"
+    }, {
+        "title": "Iphone - Coleção | Celular Apple | Usado",
+        "product_link": "https://www.google.com/url?url=https://www.enjoei.com.br/p/iphone-colecao-84463499%3Fg_campaign%3Dgoogle_shopping&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ2SkIvBM&usg=AOvVaw2B_x28d9out66rEO39Qw-I",
+        "rating": null,
+        "price": null,
+        "store": "Enjoei.com",
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT1krqvwfiTilr2NvaWFPktcxD-C_PFd8YXXzivZDfTq9wL2ClMv03e7OaSAtWq5HJFGCUrAut3O7HSoGsGvfjCf87xTv1hDyJS8ibwPuDrogGOvf_PfqMR&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.enjoei.com.br/p/iphone-colecao-84463499%3Fg_campaign%3Dgoogle_shopping&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQgOUECMET&usg=AOvVaw3ZS0aI401mJzZUAA7CkDfR"
+    }, {
+        "title": "Usado: iPhone 12 Mini 64GB Preto Muito Bom - Trocafone - Apple",
+        "product_link": "https://www.google.com/url?url=https://www.magazineluiza.com.br/usado-iphone-12-mini-64gb-preto-muito-bom-trocafone-apple/p/fh780ee6a2/te/i12m%3F%26seller_id%3Dtrocafone&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ2SkIzRM&usg=AOvVaw1XeHgxSw7jseDBd7w5Q1xl",
+        "rating": null,
+        "price": null,
+        "store": "Magazine Luiza",
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSHf4ypFcb-Pfl11htU-5PB16fcQaMJ_IxMGo4Q2G7xpxzsPVnfZgmxADKKngO0ppmR8aqeOb5kZ_cyXY55LfsCczWN9vAxTVOT6iUqXEGG4Iq8LL2iJQjj2w&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.magazineluiza.com.br/usado-iphone-12-mini-64gb-preto-muito-bom-trocafone-apple/p/fh780ee6a2/te/i12m%3F%26seller_id%3Dtrocafone&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQgOUECNMT&usg=AOvVaw2g8erx4wPb5WtnZrn74y6G"
+    }, {
+        "title": "Apple iPhone 14 Plus 128GB Meia-noite",
+        "product_link": "https://www.google.com/shopping/product/6484719463464340218?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:4969934123666010413_0,pid:1746155654190370037,rsk:PC_9468624372169813779&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wII3xM",
+        "rating": "4,5",
+        "price": null,
+        "store": "Cmrvshop",
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRgriYtVZN6WEvfaUi0gUKCQtBjAk5oXkDlz5LNsaJVv7e-n2mor96CEn3g-ZXa1Sn352GGhNWyF5d-80i6EMDD5wxn4rv_oLD0p7qBziis8nMUJyVjYsTk&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://cmrvshop.mercadoshops.com.br/MLB-3301481531-apple-iphone-14-plus-128-gb-meia-noite-_JM&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECOYT&usg=AOvVaw2Uq-QdTDwjyiPpo2Wpl-Gh"
+    }, {
+        "title": "iPhone",
+        "product_link": "https://www.google.com/url?url=https://selaslucasfreitas.com.br/produto/cabecada-de-cavalo-orelha-selas-lucas-freitas-3/&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ2SkI8RM&usg=AOvVaw2ZH7kN1-HtfG8Gr-_1Bmcz",
+        "rating": null,
+        "price": null,
+        "store": "Selas Lucas Freitas",
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcStIy5HiNmChr_DzBZ8SO87exgzhBLDwXE5Om7s_WhQGw44esLKEgxsArOHebLfaMvcIihJBqnpXru3oBzpSckix8mlTg7y9M62Ul_AtZ8N&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://selaslucasfreitas.com.br/produto/cabecada-de-cavalo-orelha-selas-lucas-freitas-3/&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQgOUECPYT&usg=AOvVaw2E1qfhEx4ngDJJ5C275vsk"
+    }, {
+        "title": "Apple iPhone 11 Original Novo",
+        "product_link": "https://www.google.com/url?url=https://lojagenezini.com.br/produtos/apple-iphone-11-original-novo-vitrine/&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ2SkIgRQ&usg=AOvVaw0gLQmhsgkaiXSvFKjWKigy",
+        "rating": null,
+        "price": null,
+        "store": "Loja Genezini",
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSG_f0U0DOngzCPhBaNsv5SJeciWY4J1zR-5S3noebifUtUCU_I6kXDnzixqNuCFRYICFD_BqvCZ0isdzJOsvRrJoLA8JhUhz4-io7g6-w&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://lojagenezini.com.br/produtos/apple-iphone-11-original-novo-vitrine/&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQgOUECIYU&usg=AOvVaw17MwA8v6EhIg7r7HOGQEOb"
+    }, {
+        "title": "iPhone 8 64 Gb Cinza-espacial",
+        "product_link": "https://www.google.com/shopping/product/12876020455251954768?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:8635789683557446678_0,pid:7783309553734273213,rsk:PC_2279649599901893363&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wIIkBQ",
+        "rating": "4,4",
+        "price": null,
+        "store": "Carrefour",
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSzmuFQibxvhwMWplE88ijsS65KugBwbrpgpW6Fsks9CseAn0UgbesWcr2dyau18UoQ82epB8RdCW-7ZPsS0hpvI3cj1yu5ZZVNJ49H12riKm57eXA9YUHS&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.carrefour.com.br/vitrine-iphone-8-preto-64gb-mp929820731/p&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECJcU&usg=AOvVaw2oWMOobjzebqlpGhagDzpJ"
+    }, {
+        "title": "Iphone Pronto Pra Ser Seu | Celular Apple | Usado",
+        "product_link": "https://www.google.com/url?url=https://www.enjoei.com.br/p/iphone-pronto-pra-ser-seu-83741196%3Fg_campaign%3Dgoogle_shopping&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ2SkIoxQ&usg=AOvVaw2dPyyso_lwurAxqzixIw2u",
+        "rating": null,
+        "price": null,
+        "store": "Enjoei.com",
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTjdhJ_sp8nm5N3nFT40KTA8uxeWZJ9lft0NjAu1tTwC4OC2vi-L_dtPXvislNbcfbGkONaPM2tgSpmN9PPT-h80rtXZtXeUVmQAXG5Zog&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.enjoei.com.br/p/iphone-pronto-pra-ser-seu-83741196%3Fg_campaign%3Dgoogle_shopping&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQgOUECKgU&usg=AOvVaw1xW_Rs1MnBJIEHTo3djQLT"
+    }, {
+        "title": "Iphone 11 Branco | Celular Apple | Usado",
+        "product_link": "https://www.google.com/url?url=https://www.enjoei.com.br/p/iphone-11-branco-80868716%3Fg_campaign%3Dgoogle_shopping&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ2SkItBQ&usg=AOvVaw1gr0rdtarIum76CJeWxy_I",
+        "rating": null,
+        "price": null,
+        "store": "Enjoei.com",
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT069yZvSWpuN4puYquI8VtZarZAOubqFPiDlgN9ZOJAL-jB-bzPL2JBL9yEBTMPZrxzSv3VWjvsQOFGaO7MWpbvalWBwmtYZ9PHhdYV54&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.enjoei.com.br/p/iphone-11-branco-80868716%3Fg_campaign%3Dgoogle_shopping&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQgOUECLkU&usg=AOvVaw3jgl6d7wKFNf-gA8-k79Ce"
+    }, {
+        "title": "Apple iPhone 13 Mini 128GB Azul Tela 5,4",
+        "product_link": "https://www.google.com/shopping/product/9918524791750432737?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:5322988639002386734_0,pid:11349721704740236435,rsk:PC_1686283355608115465&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wIIxRQ",
+        "rating": "4,5",
+        "price": null,
+        "store": "Girafa",
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTT-Cq0r1Wfb9ABzN4cG4QYRUWRkEkit7MoNz2koAelpm_sbYS7WcOplkqG277iwxvQcK6WHt9JK2_ioTTXY2oiPc7yxbuGjoBO12bWpfo&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.girafa.com.br/p/smartphone-apple-iphone-13-mini-128gb-5g-tela-5-4-azul.htm%3Futm_source%3Dgoogle%26medium%3Dshopping%26campaign%3Dallproducts%26pfmPage%3Dgoogleads%26pfmPos%3Dmaintop1%26pfm_carac%3Dgoogleads%26srsltid%3DAfmBOorIPZ6Jq3k0YOX9IHXWJXv_iqFm59Kepm3Tx1AZsCs7YAOaEocKiHw&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECMwU&usg=AOvVaw1L-LbLMK-CrUdMzjznshzu"
+    }, {
+        "title": "IPhone 7 Cinza 128GB Seminovo",
+        "product_link": "https://www.google.com/url?url=https://www.lojalidercelulares.com.br/celulares/iphone/iphone-7-cinza-128gb-seminovo&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ2SkI2BQ&usg=AOvVaw2AzOJ_NWRcpK0U7_Tnb2IF",
+        "rating": null,
+        "price": null,
+        "store": "Lider celulares bh",
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSKJtubbhQWwjftQPRQZWX0nTsh1x4wfnOlH5DBwRC4H-AKT4KpVWUaFny1fE2QoMU_mdcbQaw3gqDY6jtAwfc5jWOz1-2XDkp-bU5R2jLU1JCpIEAAogtJig&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.lojalidercelulares.com.br/celulares/iphone/iphone-7-cinza-128gb-seminovo&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQgOUECN4U&usg=AOvVaw2J3PFAaS-QrH-IzSJ3tQnp"
+    }, {
+        "title": "Aparelho Iphone 11 Apple Vermelho 128gb Semi-Novo/Vitrine com Acessórios",
+        "product_link": "https://www.google.com/url?url=https://www.riachuelo.com.br/produto/aparelho-iphone-11-apple-vermelho-128gb-semi-novo-vitrine-com-acessorios-bb5743d1925a49bcad0ef69e19774ddf%3Fsku%3DIP-11-V-00&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ2SkI6RQ&usg=AOvVaw3Tj-4XwKGdT-cbrOg43EnN",
+        "rating": null,
+        "price": null,
+        "store": "Riachuelo",
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTgS6ZKPVXWazxsR3VNNLI6ZwbZ3HKvIl50DPZa7Mz8XexZ3CGbPLnJ3zpxg3Kw_6KgR0qO-oas0MvWQ3tI2PyQAkMs9jT_C13c2ZC8aDCmTjzH7AyaMIg9&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.riachuelo.com.br/produto/aparelho-iphone-11-apple-vermelho-128gb-semi-novo-vitrine-com-acessorios-bb5743d1925a49bcad0ef69e19774ddf%3Fsku%3DIP-11-V-00&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQgOUECO4U&usg=AOvVaw1c8iu0crUCDtUl_6I6UNcY"
+    }, {
+        "title": "iPhone 6s 32 Gb Dourado",
+        "product_link": "https://www.google.com/shopping/product/17498986411221034239?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:576782440262773627_0,pid:11672808427488493826,rsk:PC_17992361234098876293&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wII-RQ",
+        "rating": "4,5",
+        "price": null,
+        "store": "Magazine Luiza",
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ-pdpXwKjKMXucDVX36iwo84OHhnnGP2k0C1hJ_ddNkdf21VSEH3Tho3N0-5h0fJq2u61fvQ9XYk0rKhKuvL7DTbnku-_J939WzJK3wZ8&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.magazineluiza.com.br/usado-iphone-6s-32gb-dourado-muito-bom-trocafone-apple/p/ke4ja2g10b/te/ceba%3F%26seller_id%3Dtrocafone&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECIAV&usg=AOvVaw1nqIHVtuOHM09W9wqUpX_t"
+    }, {
+        "title": "APPLE - iPhone 13 128GB Azul",
+        "product_link": "https://www.google.com/shopping/product/3717632831224736361?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:6116672069595164437_0,pid:2729054041359714371,rsk:PC_8971650804785857268&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wIIjBU",
+        "rating": "4,6",
+        "price": null,
+        "store": "Want Import",
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ2unsGxpcCNuL9pqt4X3erhlmz6DL60Dph-Zb6MVB-33-ccq1DWrci847JqdHheiKjhr8-LXFu46s7ya5EkXfcNkPiaVRar8lDxz3_R2Et&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://wantimport.com/produto/iphone-13/%3Fattribute_pa_gb%3D128-gb%26attribute_pa_cor%3Dazul%26srsltid%3DAfmBOoqRtJDIuDt5wmtEwuTXMe_dRd_597p1WrDr6PCSGimrg-4wMqw4pqg&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECJMV&usg=AOvVaw0hOXij5yUBAu8-95lZFAeV"
+    }, {
+        "title": "Celular Apple Iphone 12 Roxo 128Gb Seminovo/Vitrine Com Acessorios",
+        "product_link": "https://www.google.com/url?url=https://www.carrefour.com.br/celular-apple-iphone-12-roxo-128gb-seminovovitrine-com-acessorios-mp934105181/p&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ2SkInRU&usg=AOvVaw2iFhoVL87nCwzuiEh5x7Xg",
+        "rating": null,
+        "price": null,
+        "store": "Carrefour",
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQpsXY1u7Bl5v63WSXfHDk66dVpR7Gx8u3lfH1ChQ08jn3iVf-7i31kq-y5MUfB74__ZDIln5Eg9Eq_8S26NAOjqeiV29EM8LBbqLIH0knQLX-_rxcIEkdQ&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.carrefour.com.br/celular-apple-iphone-12-roxo-128gb-seminovovitrine-com-acessorios-mp934105181/p&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQgOUECKMV&usg=AOvVaw0Ph5xGOATqqy0xCGtXi1aW"
+    }, {
+        "title": "Iphone 12 128gb Vitrine Swap + Cabo e Fonte",
+        "product_link": "https://www.google.com/url?url=https://www.atacadum.com.br/iphone-12-128gb-vitrine-swap-cabo-e-fonte/%3Fsku%3D1732473.115531.128656&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ2SkIrxU&usg=AOvVaw1KMYxb5yI-hN86BD8-bb8h",
+        "rating": null,
+        "price": null,
+        "store": "Atacadum",
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSPmGbqvwdPgx_sJAlS3IM3lW2aydWM3hs9FVJsG0VKSxls5ejpEduGrjs7kQSvM9fM6xYgat9ZHBF8871rGskKzr4dVbQfTUAJA59ylrzJNtGFryXQPVh3RA&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.atacadum.com.br/iphone-12-128gb-vitrine-swap-cabo-e-fonte/%3Fsku%3D1732473.115531.128656&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQgOUECLUV&usg=AOvVaw35J4FiruABp3wlHWXa9SS2"
+    }, {
+        "title": "Iphone 13 Mini | Celular Apple | Usado",
+        "product_link": "https://www.google.com/url?url=https://www.enjoei.com.br/p/iphone-13-mini-chip-virtual-86699404%3Fg_campaign%3Dgoogle_shopping&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ2SkIvxU&usg=AOvVaw2OxqjPmNfHMK4WGoJkCe3O",
+        "rating": null,
+        "price": null,
+        "store": "Enjoei.com",
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS0hhXUByoS6egDXi6RtQrb7G-9lnWDmR5HnnrXLzo3XC4OmEjvhUxeLfOmfrUom9vKM2MA2D23UmUC_028HQVeE7NllzbjP_qL1HzXT3EP&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.enjoei.com.br/p/iphone-13-mini-chip-virtual-86699404%3Fg_campaign%3Dgoogle_shopping&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQgOUECMQV&usg=AOvVaw1llsU6A-fI-M6G_J1bZNzP"
+    }, {
+        "title": "Smartphone Apple iPhone 11 Pro",
+        "product_link": "https://www.google.com/url?url=https://lojagenezini.com.br/produtos/smartphone-apple-iphone-11-pro/&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ2SkI0BU&usg=AOvVaw3gsl2SoP2Z6yk6D4oXYAP6",
+        "rating": null,
+        "price": null,
+        "store": "Loja Genezini",
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTg3NdXQq452R70OgtOwm6bbfgwLp9Z3Cyxexxb804EBlLPOMuUufn3gRvV8qAKef9xlHXOeTR1V1OjtxARCd87iKwuK2XNMdAVAzpFMNxifcFoCWDAJ51XYA&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://lojagenezini.com.br/produtos/smartphone-apple-iphone-11-pro/&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQgOUECNQV&usg=AOvVaw0qMk7qmLNmD4u9JmflgYwy"
+    }, {
+        "title": "iPhone 6s 64 Gb Dourado",
+        "product_link": "https://www.google.com/shopping/product/1314509400313067717?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:9726722046086814840_0,pid:2833641829794844869,rsk:PC_17992361234098876293&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wII3hU",
+        "rating": "4,5",
+        "price": null,
+        "store": "Trocafone",
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTm2gSZrFDDqDt73jkmZUD0S_-RYmAke8-c4DXUQwwP3as0nLekSW625GdoBGPbEQZNpGnCo275orR8ELtCY1YVv9jQZ-UXSFHBeOdN4rD7PJ8Xy6MXNoXqpQ&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.trocafone.com.br/iphone-6s-64gb-dourado-outlet-67223/p%3Fidsku%3D37190%26utm_source%3Dgoogle%26utm_campaign%3Dshopping%26utm_medium%3Dcpc&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECOUV&usg=AOvVaw20RxOhgPPGEwzrIt5jc7iQ"
+    }, {
+        "title": "iPhone 6 32GB Cinza Espacial - Apple",
+        "product_link": "https://www.google.com/shopping/product/11166253755586130889?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:16970628829257500022_0,pid:6988753894479310024,rsk:PC_15894089011130555529&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wII8RU",
+        "rating": "4,4",
+        "price": null,
+        "store": "Lojas Império",
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqGoU2-XgX_uzvPZz-gCxfqdH2iDbLe36ciZ1S_FZ4rkryfZsiJjUcPNIaLjCoIeGiAbnkJfe_P49hTGjupjICT2WyvOttWagRSbgw8V8xy2X2Vkas-sD_&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.lojasimperio.com.br/produto/usado-iphone-6-32-gb-cinza-espacial-bom-25071.html&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECPgV&usg=AOvVaw0bygMo2A8V7dxjAuVAS5T6"
+    }, {
+        "title": "Aparelho Iphone Xr Apple Azul 128gb Vitrine com Acessórios",
+        "product_link": "https://www.google.com/url?url=https://www.riachuelo.com.br/produto/aparelho-iphone-xr-apple-azul-128gb-vitrine-com-acessorios-c22883ae8b354a11b72b77681d222a99%3Fsku%3DIp-Xr-A-00&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ2SkIhRY&usg=AOvVaw3KNjzjLfkT6tGpXhMOPmyK",
+        "rating": null,
+        "price": null,
+        "store": "Riachuelo",
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQk0mZ2mwwAy2aESVyP5qOmTGkskj0N9VQVWzIb1Ut3fTrn0z79HDHp14lcAR5_hrd8Gi1vBUKmXk279g6efN6Zo9iOJDvBBuO1wmS3AWNGKzN9QDKHP0OC8A&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.riachuelo.com.br/produto/aparelho-iphone-xr-apple-azul-128gb-vitrine-com-acessorios-c22883ae8b354a11b72b77681d222a99%3Fsku%3DIp-Xr-A-00&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQgOUECIoW&usg=AOvVaw1_0HXrrqSJ8g_Rx9C5H0dZ"
+    }, {
+        "title": "iPhone 5s Cinza Espacial 16GB Apple",
+        "product_link": "https://www.google.com/shopping/product/1055607923329888952?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:704957184220538515_0,pid:9437556727284497017,rsk:PC_7645446518325683507&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wIIlRY",
+        "rating": "4,4",
+        "price": null,
+        "store": "DayOutlet",
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTS6yt23QiDiGN2KOKkZTOeE5jy3bMWwQxwSgVtrbc1VJ3KGkz0cyI-1cKCMDFurAZ5SWFBckNQv-C8CwrVGddpHYwzj-D-NcIFxlxCBUIp&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.dayoutlet.com.br/seminovos/me432bra-iphone-5s-cinza-espacial-16gb-usado%3Fsrsltid%3DAfmBOopEMFcDv6xcWUAzULbzLwEW186MMPKGX3SKmOa6giqEc5iYCZuebxg&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECJwW&usg=AOvVaw3SaTqHcOPXNBQztja15I7s"
+    }, {
+        "title": "Iphone 6 32 Gigas | Celular Apple | Usado",
+        "product_link": "https://www.google.com/url?url=https://www.enjoei.com.br/p/iphone-6-32-gigas-88407587%3Fg_campaign%3Dgoogle_shopping&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ2SkIpxY&usg=AOvVaw2h_DOiTgMKVyM1ByMyp4EQ",
+        "rating": null,
+        "price": null,
+        "store": "Enjoei.com",
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRRhh0OfN5JP8EeqR2VfCxxDjIrSdt_hU3WTYzRuZcYtVs_NRz7LXsV1f2AWgREq7uFWJ_MVMAVkvLGfK5HoNg3rx5ILp6w2Cv1Df1aFww&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.enjoei.com.br/p/iphone-6-32-gigas-88407587%3Fg_campaign%3Dgoogle_shopping&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQgOUECKwW&usg=AOvVaw29ZWjne9RTvjNAxb2dTTkt"
+    }, {
+        "title": "Apple iPhone 13 Pro (128 GB) - Grafite",
+        "product_link": "https://www.google.com/shopping/product/2078668844250935728?q=iphone&hl=pt-BR&gl=br&sclient=products-cc&psb=1&prds=eto:6912734624688555250_0,pid:10220474080742965769,rsk:PROD_VAR_357344828079836893&sa=X&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ8wIIuBY",
+        "rating": "4,7",
+        "price": null,
+        "store": "Girafa",
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQn9CJgKH1WFyU6WNK-Qhd596Xsz4qyOlwHW6S7x_YhOFcz6ISqgB8xmArfCj5mhSQLMei0txIXWRKO0DxjOgDDvwyMPVRNrY_g0MPEFLZAKk5GXqq3W5mYyA&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.girafa.com.br/p/smartphone-apple-iphone-13-pro-128gb-5g-tela-6-1-grafite.htm%3Futm_source%3Dgoogle%26medium%3Dshopping%26campaign%3Dallproducts%26pfmPage%3Dgoogleads%26pfmPos%3Dmaintop1%26pfm_carac%3Dgoogleads%26srsltid%3DAfmBOopoq_lUxioJAdTcWvIj3MJ1TAcwi1ous3tEXPrr_c61FlG-E54eQPk&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQguUECL8W&usg=AOvVaw1aAxEDhQTkYUeKacZnqllS"
+    }, {
+        "title": "Iphone 11 Novo Lacrado (128GB) Branco tela 6,1 Câmera 12MP iOS",
+        "product_link": "https://www.google.com/url?url=https://www.shoptime.com.br/produto/7462341789/iphone-11-novo-lacrado-128gb-branco-tela-6-1-camera-12mp-ios%3Fopn%3DGOOGLEXML%26offerId%3D64c27ec9579fbc8d911aea8e%26srsltid%3DAfmBOopi_cB61MXF3vAhOvK6n1bdFh_L0P7FtU-weFcjoQshmAGJmpnonpw&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ2SkIyxY&usg=AOvVaw3rs9Cal2bYFtL9yOnO55YX",
+        "rating": null,
+        "price": null,
+        "store": "Shoptime",
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQBMTA9XoWDuyLEs41RDvhDF5tAG3oK6j7a5MfAlejakr5E9UBxXcBIH35pWzx7nqKf7vOA6RGRTpGUBmIOpvBILKLWR7POINGUzoA_-aGE9ioci9oDL0fP&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.shoptime.com.br/produto/7462341789/iphone-11-novo-lacrado-128gb-branco-tela-6-1-camera-12mp-ios%3Fopn%3DGOOGLEXML%26offerId%3D64c27ec9579fbc8d911aea8e%26srsltid%3DAfmBOopi_cB61MXF3vAhOvK6n1bdFh_L0P7FtU-weFcjoQshmAGJmpnonpw&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQgOUECNEW&usg=AOvVaw1VRJGSKv6nR3e8GjVsmwuP"
+    }, {
+        "title": "Aparelho Iphone 11 Apple Branco128gb Vitrine/Semi Novo com Acessórios",
+        "product_link": "https://www.google.com/url?url=https://www.riachuelo.com.br/produto/aparelho-iphone-11-apple-branco128gb-vitrine-com-acessorios-80ffc8eaca3746f0a501a2dfabaac5d6%3Fsku%3DIp-11-Branco&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQ2SkI3BY&usg=AOvVaw3y-dXxhFhlo0yX4o_pOlCe",
+        "rating": null,
+        "price": null,
+        "store": "Riachuelo",
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQDOG-iIpJlG52oMZlmnrBJRs_WC3Nzx7DTwGcu4iENpNTZ-q8SHIVisER3CRb8H6rRMFRoqPOSX-n3YE7N3nFxJWcojR8mVJXugS2qTn3CWZrD_2RFiCL0nEM&usqp=CAE",
+        "store_link": "https://www.google.com/url?url=https://www.riachuelo.com.br/produto/aparelho-iphone-11-apple-branco128gb-vitrine-com-acessorios-80ffc8eaca3746f0a501a2dfabaac5d6%3Fsku%3DIp-11-Branco&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjwtOjPu-uAAxWaMlkFHXMSCrIQgOUECOEW&usg=AOvVaw1t3CMADHObTxS7Qpynsvgb"
+    }],
+    "timestamp": "2023-08-20 11:39:17.280472"
+}
